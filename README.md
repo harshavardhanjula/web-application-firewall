@@ -10,8 +10,8 @@ Automated Slide Creation: Extracts markdown content to dynamically generate slid
 Comprehensive Coverage: Produces a full 50-slide presentation, adding supplementary slides if the source document lacks enough content.
 Easy Customization: Modify the Python script to tailor slide formatting, content extraction, and additional details as needed.
 
-**Output:
-******
+**Output:******
+
 The generated presentation, named Web_Application_Firewall_Presentation_From_Notebook.pptx, will be saved in the project directory.
 
 You can easily modify the script to:
